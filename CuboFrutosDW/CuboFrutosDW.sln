@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CuboFrutosDW", "CuboFrutosDW.dwproj", "{E84F0732-9C26-4621-A105-BC7DBB7CEA30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84F0732-9C26-4621-A105-BC7DBB7CEA30}.Development|Default.ActiveCfg = Development
+		{E84F0732-9C26-4621-A105-BC7DBB7CEA30}.Development|Default.Build.0 = Development
+		{E84F0732-9C26-4621-A105-BC7DBB7CEA30}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0F12ED-5958-4618-92E9-B3CBF645E08A}
+	EndGlobalSection
+EndGlobal
